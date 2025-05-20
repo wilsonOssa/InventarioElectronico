@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\inventarioelectronico\\inventarioelectronico\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|solutionrelative:inventarioelectronico\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\inventarioelectronico\\inventarioelectronico\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|solutionrelative:inventarioelectronico\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\inventarioelectronico\\inventarioelectronico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|solutionrelative:inventarioelectronico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\inventarioelectronico\\inventarioelectronico\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|solutionrelative:inventarioelectronico\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\inventarioelectronico\\inventarioelectronico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFD4931A-D2AF-43C5-91B9-2FC3C8572E95}|InventarioElectronico\\InventarioElectronico.csproj|solutionrelative:inventarioelectronico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +42,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\Form1.cs",
+              "RelativeDocumentMoniker": "InventarioElectronico\\Form1.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\Form1.cs",
+              "RelativeToolTip": "InventarioElectronico\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:54:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "InventarioElectronico\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\ProductoRepository.cs",
+              "RelativeToolTip": "InventarioElectronico\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:51:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "InventarioElectronico\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\DatabaseConnection.cs",
+              "RelativeToolTip": "InventarioElectronico\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:42:02.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\App.config",
+              "RelativeDocumentMoniker": "InventarioElectronico\\App.config",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\App.config",
+              "RelativeToolTip": "InventarioElectronico\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T17:38:51.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\InventarioElectronico\\InventarioElectronico\\Form1.cs",
               "RelativeDocumentMoniker": "InventarioElectronico\\Form1.cs",

@@ -16,5 +16,17 @@ namespace InventarioElectronico
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        
+            public interface IProductoRepository
+        { 
+            void Agregar(ProductoRepository producto);
+            void Actualizar(ProductoRepository producto);
+            void Eliminar(int productoID);
+            ProductoRepository ObtenerPorID(int productoID);
+            List<ProductoRepository> ObtenerTodos();
+        
+        }
     }
 }
